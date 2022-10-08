@@ -77,54 +77,12 @@ gdjs.simularViajemCode.GDinfor2Objects3= [];
 gdjs.simularViajemCode.GDinforObjects1= [];
 gdjs.simularViajemCode.GDinforObjects2= [];
 gdjs.simularViajemCode.GDinforObjects3= [];
-gdjs.simularViajemCode.GDtxt17Objects1= [];
-gdjs.simularViajemCode.GDtxt17Objects2= [];
-gdjs.simularViajemCode.GDtxt17Objects3= [];
-gdjs.simularViajemCode.GDtxt16Objects1= [];
-gdjs.simularViajemCode.GDtxt16Objects2= [];
-gdjs.simularViajemCode.GDtxt16Objects3= [];
-gdjs.simularViajemCode.GDtxt15Objects1= [];
-gdjs.simularViajemCode.GDtxt15Objects2= [];
-gdjs.simularViajemCode.GDtxt15Objects3= [];
-gdjs.simularViajemCode.GDtxtN1Objects1= [];
-gdjs.simularViajemCode.GDtxtN1Objects2= [];
-gdjs.simularViajemCode.GDtxtN1Objects3= [];
-gdjs.simularViajemCode.GDtxt4Objects1= [];
-gdjs.simularViajemCode.GDtxt4Objects2= [];
-gdjs.simularViajemCode.GDtxt4Objects3= [];
-gdjs.simularViajemCode.GDtxt3Objects1= [];
-gdjs.simularViajemCode.GDtxt3Objects2= [];
-gdjs.simularViajemCode.GDtxt3Objects3= [];
-gdjs.simularViajemCode.GDtxt2Objects1= [];
-gdjs.simularViajemCode.GDtxt2Objects2= [];
-gdjs.simularViajemCode.GDtxt2Objects3= [];
-gdjs.simularViajemCode.GDtxt1Objects1= [];
-gdjs.simularViajemCode.GDtxt1Objects2= [];
-gdjs.simularViajemCode.GDtxt1Objects3= [];
-gdjs.simularViajemCode.GDforaTerraObjects1= [];
-gdjs.simularViajemCode.GDforaTerraObjects2= [];
-gdjs.simularViajemCode.GDforaTerraObjects3= [];
-gdjs.simularViajemCode.GDinforAtmObjects1= [];
-gdjs.simularViajemCode.GDinforAtmObjects2= [];
-gdjs.simularViajemCode.GDinforAtmObjects3= [];
-gdjs.simularViajemCode.GDinforAtm2Objects1= [];
-gdjs.simularViajemCode.GDinforAtm2Objects2= [];
-gdjs.simularViajemCode.GDinforAtm2Objects3= [];
-gdjs.simularViajemCode.GDNossaAtmosferaObjects1= [];
-gdjs.simularViajemCode.GDNossaAtmosferaObjects2= [];
-gdjs.simularViajemCode.GDNossaAtmosferaObjects3= [];
-gdjs.simularViajemCode.GDinterplanetarioObjects1= [];
-gdjs.simularViajemCode.GDinterplanetarioObjects2= [];
-gdjs.simularViajemCode.GDinterplanetarioObjects3= [];
-gdjs.simularViajemCode.GDvenusObjects1= [];
-gdjs.simularViajemCode.GDvenusObjects2= [];
-gdjs.simularViajemCode.GDvenusObjects3= [];
-gdjs.simularViajemCode.GDvenusInforObjects1= [];
-gdjs.simularViajemCode.GDvenusInforObjects2= [];
-gdjs.simularViajemCode.GDvenusInforObjects3= [];
-gdjs.simularViajemCode.GDvenusInfor2Objects1= [];
-gdjs.simularViajemCode.GDvenusInfor2Objects2= [];
-gdjs.simularViajemCode.GDvenusInfor2Objects3= [];
+gdjs.simularViajemCode.GDsoltxtObjects1= [];
+gdjs.simularViajemCode.GDsoltxtObjects2= [];
+gdjs.simularViajemCode.GDsoltxtObjects3= [];
+gdjs.simularViajemCode.GDvenusIObjects1= [];
+gdjs.simularViajemCode.GDvenusIObjects2= [];
+gdjs.simularViajemCode.GDvenusIObjects3= [];
 gdjs.simularViajemCode.GDFundoObjects1= [];
 gdjs.simularViajemCode.GDFundoObjects2= [];
 gdjs.simularViajemCode.GDFundoObjects3= [];
@@ -149,6 +107,12 @@ gdjs.simularViajemCode.GDEstratosferaObjects3= [];
 gdjs.simularViajemCode.GDTroposferaObjects1= [];
 gdjs.simularViajemCode.GDTroposferaObjects2= [];
 gdjs.simularViajemCode.GDTroposferaObjects3= [];
+gdjs.simularViajemCode.GDmuda10Objects1= [];
+gdjs.simularViajemCode.GDmuda10Objects2= [];
+gdjs.simularViajemCode.GDmuda10Objects3= [];
+gdjs.simularViajemCode.GDmuda11Objects1= [];
+gdjs.simularViajemCode.GDmuda11Objects2= [];
+gdjs.simularViajemCode.GDmuda11Objects3= [];
 gdjs.simularViajemCode.GDnuvemObjects1= [];
 gdjs.simularViajemCode.GDnuvemObjects2= [];
 gdjs.simularViajemCode.GDnuvemObjects3= [];
@@ -164,6 +128,36 @@ gdjs.simularViajemCode.GDFadeObjects3= [];
 gdjs.simularViajemCode.GDFundoEspacoObjects1= [];
 gdjs.simularViajemCode.GDFundoEspacoObjects2= [];
 gdjs.simularViajemCode.GDFundoEspacoObjects3= [];
+gdjs.simularViajemCode.GDdicas1Objects1= [];
+gdjs.simularViajemCode.GDdicas1Objects2= [];
+gdjs.simularViajemCode.GDdicas1Objects3= [];
+gdjs.simularViajemCode.GDdicas2Objects1= [];
+gdjs.simularViajemCode.GDdicas2Objects2= [];
+gdjs.simularViajemCode.GDdicas2Objects3= [];
+gdjs.simularViajemCode.GDdicas3Objects1= [];
+gdjs.simularViajemCode.GDdicas3Objects2= [];
+gdjs.simularViajemCode.GDdicas3Objects3= [];
+gdjs.simularViajemCode.GDdicas4Objects1= [];
+gdjs.simularViajemCode.GDdicas4Objects2= [];
+gdjs.simularViajemCode.GDdicas4Objects3= [];
+gdjs.simularViajemCode.GDdicas5Objects1= [];
+gdjs.simularViajemCode.GDdicas5Objects2= [];
+gdjs.simularViajemCode.GDdicas5Objects3= [];
+gdjs.simularViajemCode.GDdicas6Objects1= [];
+gdjs.simularViajemCode.GDdicas6Objects2= [];
+gdjs.simularViajemCode.GDdicas6Objects3= [];
+gdjs.simularViajemCode.GDdica1Objects1= [];
+gdjs.simularViajemCode.GDdica1Objects2= [];
+gdjs.simularViajemCode.GDdica1Objects3= [];
+gdjs.simularViajemCode.GDdica2Objects1= [];
+gdjs.simularViajemCode.GDdica2Objects2= [];
+gdjs.simularViajemCode.GDdica2Objects3= [];
+gdjs.simularViajemCode.GDdica3Objects1= [];
+gdjs.simularViajemCode.GDdica3Objects2= [];
+gdjs.simularViajemCode.GDdica3Objects3= [];
+gdjs.simularViajemCode.GDdica4Objects1= [];
+gdjs.simularViajemCode.GDdica4Objects2= [];
+gdjs.simularViajemCode.GDdica4Objects3= [];
 
 gdjs.simularViajemCode.conditionTrue_0 = {val:false};
 gdjs.simularViajemCode.condition0IsTrue_0 = {val:false};
@@ -239,13 +233,27 @@ gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDTroposferaObjects1Obj
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDEstratosferaObjects1Objects = Hashtable.newFrom({"Estratosfera": gdjs.simularViajemCode.GDEstratosferaObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDEstratosferaObjects1Objects = Hashtable.newFrom({"Estratosfera": gdjs.simularViajemCode.GDEstratosferaObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDMesosferaObjects1Objects = Hashtable.newFrom({"Mesosfera": gdjs.simularViajemCode.GDMesosferaObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDTermosferaObjects1Objects = Hashtable.newFrom({"Termosfera": gdjs.simularViajemCode.GDTermosferaObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDTermosferaObjects1Objects = Hashtable.newFrom({"Termosfera": gdjs.simularViajemCode.GDTermosferaObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDExosferaObjects1Objects = Hashtable.newFrom({"Exosfera": gdjs.simularViajemCode.GDExosferaObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDsolObjects1Objects = Hashtable.newFrom({"sol": gdjs.simularViajemCode.GDsolObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDsolObjects1Objects = Hashtable.newFrom({"sol": gdjs.simularViajemCode.GDsolObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDmuda10Objects1Objects = Hashtable.newFrom({"muda10": gdjs.simularViajemCode.GDmuda10Objects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDmuda10Objects1Objects = Hashtable.newFrom({"muda10": gdjs.simularViajemCode.GDmuda10Objects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDmuda11Objects1Objects = Hashtable.newFrom({"muda11": gdjs.simularViajemCode.GDmuda11Objects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
+gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDmuda11Objects1Objects = Hashtable.newFrom({"muda11": gdjs.simularViajemCode.GDmuda11Objects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects = Hashtable.newFrom({"nave": gdjs.simularViajemCode.GDnaveObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDFadeObjects1Objects = Hashtable.newFrom({"Fade": gdjs.simularViajemCode.GDFadeObjects1});
 gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDmudarObjects1Objects = Hashtable.newFrom({"mudar": gdjs.simularViajemCode.GDmudarObjects1});
@@ -322,12 +330,12 @@ gdjs.copyArray(runtimeScene.getObjects("CaixaDoJogador"), gdjs.simularViajemCode
 gdjs.copyArray(runtimeScene.getObjects("Estratosfera"), gdjs.simularViajemCode.GDEstratosferaObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Exosfera"), gdjs.simularViajemCode.GDExosferaObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Mesosfera"), gdjs.simularViajemCode.GDMesosferaObjects1);
-gdjs.copyArray(runtimeScene.getObjects("NossaAtmosfera"), gdjs.simularViajemCode.GDNossaAtmosferaObjects1);
 gdjs.copyArray(runtimeScene.getObjects("RotaNave"), gdjs.simularViajemCode.GDRotaNaveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Termosfera"), gdjs.simularViajemCode.GDTermosferaObjects1);
 gdjs.copyArray(runtimeScene.getObjects("Troposfera"), gdjs.simularViajemCode.GDTroposferaObjects1);
-gdjs.copyArray(runtimeScene.getObjects("inforAtm"), gdjs.simularViajemCode.GDinforAtmObjects1);
-gdjs.copyArray(runtimeScene.getObjects("interplanetario"), gdjs.simularViajemCode.GDinterplanetarioObjects1);
+gdjs.copyArray(runtimeScene.getObjects("dicas2"), gdjs.simularViajemCode.GDdicas2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("muda10"), gdjs.simularViajemCode.GDmuda10Objects1);
+gdjs.copyArray(runtimeScene.getObjects("muda11"), gdjs.simularViajemCode.GDmuda11Objects1);
 gdjs.copyArray(runtimeScene.getObjects("mudar"), gdjs.simularViajemCode.GDmudarObjects1);
 gdjs.copyArray(runtimeScene.getObjects("obstaculoJogador"), gdjs.simularViajemCode.GDobstaculoJogadorObjects1);
 gdjs.copyArray(runtimeScene.getObjects("obstaculoJogador2"), gdjs.simularViajemCode.GDobstaculoJogador2Objects1);
@@ -339,17 +347,11 @@ gdjs.copyArray(runtimeScene.getObjects("ventoSolar"), gdjs.simularViajemCode.GDv
 }{for(var i = 0, len = gdjs.simularViajemCode.GDRotaNaveObjects1.length ;i < len;++i) {
     gdjs.simularViajemCode.GDRotaNaveObjects1[i].hide();
 }
-}{for(var i = 0, len = gdjs.simularViajemCode.GDinforAtmObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDinforAtmObjects1[i].hide();
-}
-}{for(var i = 0, len = gdjs.simularViajemCode.GDNossaAtmosferaObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDNossaAtmosferaObjects1[i].hide();
+}{for(var i = 0, len = gdjs.simularViajemCode.GDdicas2Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas2Objects1[i].hide();
 }
 }{for(var i = 0, len = gdjs.simularViajemCode.GDventoSolarObjects1.length ;i < len;++i) {
     gdjs.simularViajemCode.GDventoSolarObjects1[i].hide();
-}
-}{for(var i = 0, len = gdjs.simularViajemCode.GDinterplanetarioObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDinterplanetarioObjects1[i].hide();
 }
 }{for(var i = 0, len = gdjs.simularViajemCode.GDsolObjects1.length ;i < len;++i) {
     gdjs.simularViajemCode.GDsolObjects1[i].hide();
@@ -377,6 +379,12 @@ gdjs.copyArray(runtimeScene.getObjects("ventoSolar"), gdjs.simularViajemCode.GDv
 }
 }{for(var i = 0, len = gdjs.simularViajemCode.GDobstaculoJogador2Objects1.length ;i < len;++i) {
     gdjs.simularViajemCode.GDobstaculoJogador2Objects1[i].hide();
+}
+}{for(var i = 0, len = gdjs.simularViajemCode.GDmuda10Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDmuda10Objects1[i].hide();
+}
+}{for(var i = 0, len = gdjs.simularViajemCode.GDmuda11Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDmuda11Objects1[i].hide();
 }
 }}
 
@@ -554,10 +562,10 @@ if (gdjs.simularViajemCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ventoSolar"), gdjs.simularViajemCode.GDventoSolarObjects1);
 {for(var i = 0, len = gdjs.simularViajemCode.GDnaveObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDnaveObjects1[i].addPolarForce(270, 400, 0);
+    gdjs.simularViajemCode.GDnaveObjects1[i].addPolarForce(270, 200, 0);
 }
 }{for(var i = 0, len = gdjs.simularViajemCode.GDventoSolarObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDventoSolarObjects1[i].addPolarForce(270, 400, 0);
+    gdjs.simularViajemCode.GDventoSolarObjects1[i].addPolarForce(270, 200, 0);
 }
 }}
 
@@ -581,10 +589,10 @@ if (gdjs.simularViajemCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ventoSolar"), gdjs.simularViajemCode.GDventoSolarObjects1);
 {for(var i = 0, len = gdjs.simularViajemCode.GDnaveObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDnaveObjects1[i].addPolarForce(90, 400, 0);
+    gdjs.simularViajemCode.GDnaveObjects1[i].addPolarForce(90, 200, 0);
 }
 }{for(var i = 0, len = gdjs.simularViajemCode.GDventoSolarObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDventoSolarObjects1[i].addPolarForce(90, 400, 0);
+    gdjs.simularViajemCode.GDventoSolarObjects1[i].addPolarForce(90, 200, 0);
 }
 }}
 
@@ -678,15 +686,7 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDTroposferaObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, false, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("NossaAtmosfera"), gdjs.simularViajemCode.GDNossaAtmosferaObjects1);
-gdjs.copyArray(runtimeScene.getObjects("inforAtm"), gdjs.simularViajemCode.GDinforAtmObjects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDinforAtmObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDinforAtmObjects1[i].hide(false);
 }
-}{for(var i = 0, len = gdjs.simularViajemCode.GDNossaAtmosferaObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDNossaAtmosferaObjects1[i].hide(false);
-}
-}}
 
 }
 
@@ -700,9 +700,31 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDEstratosferaObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, false, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas2"), gdjs.simularViajemCode.GDdicas2Objects1);
 /* Reuse gdjs.simularViajemCode.GDnaveObjects1 */
 {for(var i = 0, len = gdjs.simularViajemCode.GDnaveObjects1.length ;i < len;++i) {
     gdjs.simularViajemCode.GDnaveObjects1[i].setAnimationName("troca1");
+}
+}{for(var i = 0, len = gdjs.simularViajemCode.GDdicas2Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas2Objects1[i].hide(false);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Estratosfera"), gdjs.simularViajemCode.GDEstratosferaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
+
+gdjs.simularViajemCode.condition0IsTrue_0.val = false;
+{
+gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDEstratosferaObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, true, runtimeScene, false);
+}if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas2"), gdjs.simularViajemCode.GDdicas2Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdicas2Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas2Objects1[i].hide();
 }
 }}
 
@@ -736,9 +758,31 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDTermosferaObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, false, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas3"), gdjs.simularViajemCode.GDdicas3Objects1);
 /* Reuse gdjs.simularViajemCode.GDnaveObjects1 */
 {for(var i = 0, len = gdjs.simularViajemCode.GDnaveObjects1.length ;i < len;++i) {
     gdjs.simularViajemCode.GDnaveObjects1[i].setAnimationName("troca3");
+}
+}{for(var i = 0, len = gdjs.simularViajemCode.GDdicas3Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas3Objects1[i].hide(false);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("Termosfera"), gdjs.simularViajemCode.GDTermosferaObjects1);
+gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
+
+gdjs.simularViajemCode.condition0IsTrue_0.val = false;
+{
+gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDTermosferaObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, true, runtimeScene, false);
+}if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas3"), gdjs.simularViajemCode.GDdicas3Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdicas3Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas3Objects1[i].hide();
 }
 }}
 
@@ -781,7 +825,7 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDsolObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, false, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("interplanetario"), gdjs.simularViajemCode.GDinterplanetarioObjects1);
+gdjs.copyArray(runtimeScene.getObjects("dicas4"), gdjs.simularViajemCode.GDdicas4Objects1);
 /* Reuse gdjs.simularViajemCode.GDnaveObjects1 */
 gdjs.copyArray(runtimeScene.getObjects("ventoSolar"), gdjs.simularViajemCode.GDventoSolarObjects1);
 {for(var i = 0, len = gdjs.simularViajemCode.GDnaveObjects1.length ;i < len;++i) {
@@ -790,8 +834,98 @@ gdjs.copyArray(runtimeScene.getObjects("ventoSolar"), gdjs.simularViajemCode.GDv
 }{for(var i = 0, len = gdjs.simularViajemCode.GDventoSolarObjects1.length ;i < len;++i) {
     gdjs.simularViajemCode.GDventoSolarObjects1[i].hide(false);
 }
-}{for(var i = 0, len = gdjs.simularViajemCode.GDinterplanetarioObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDinterplanetarioObjects1[i].hide(false);
+}{for(var i = 0, len = gdjs.simularViajemCode.GDdicas4Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas4Objects1[i].hide(false);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
+gdjs.copyArray(runtimeScene.getObjects("sol"), gdjs.simularViajemCode.GDsolObjects1);
+
+gdjs.simularViajemCode.condition0IsTrue_0.val = false;
+{
+gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDsolObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, true, runtimeScene, false);
+}if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas4"), gdjs.simularViajemCode.GDdicas4Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdicas4Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas4Objects1[i].hide();
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("muda10"), gdjs.simularViajemCode.GDmuda10Objects1);
+gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
+
+gdjs.simularViajemCode.condition0IsTrue_0.val = false;
+{
+gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDmuda10Objects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, false, runtimeScene, false);
+}if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas5"), gdjs.simularViajemCode.GDdicas5Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdicas5Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas5Objects1[i].hide(false);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("muda10"), gdjs.simularViajemCode.GDmuda10Objects1);
+gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
+
+gdjs.simularViajemCode.condition0IsTrue_0.val = false;
+{
+gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDmuda10Objects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, true, runtimeScene, false);
+}if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas5"), gdjs.simularViajemCode.GDdicas5Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdicas5Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas5Objects1[i].hide();
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("muda11"), gdjs.simularViajemCode.GDmuda11Objects1);
+gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
+
+gdjs.simularViajemCode.condition0IsTrue_0.val = false;
+{
+gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDmuda11Objects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, false, runtimeScene, false);
+}if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas6"), gdjs.simularViajemCode.GDdicas6Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdicas6Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas6Objects1[i].hide(false);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("muda11"), gdjs.simularViajemCode.GDmuda11Objects1);
+gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
+
+gdjs.simularViajemCode.condition0IsTrue_0.val = false;
+{
+gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDmuda11Objects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDnaveObjects1Objects, true, runtimeScene, false);
+}if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas6"), gdjs.simularViajemCode.GDdicas6Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdicas6Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas6Objects1[i].hide();
 }
 }}
 
@@ -873,9 +1007,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDobstaculoJogadorObjects1Objects, true, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txtN1"), gdjs.simularViajemCode.GDtxtN1Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxtN1Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxtN1Objects1[i].hide();
+gdjs.copyArray(runtimeScene.getObjects("dicas1"), gdjs.simularViajemCode.GDdicas1Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdicas1Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas1Objects1[i].hide();
 }
 }}
 
@@ -891,9 +1025,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDobstaculoJogadorObjects1Objects, false, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txtN1"), gdjs.simularViajemCode.GDtxtN1Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxtN1Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxtN1Objects1[i].hide(false);
+gdjs.copyArray(runtimeScene.getObjects("dicas1"), gdjs.simularViajemCode.GDdicas1Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdicas1Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdicas1Objects1[i].hide(false);
 }
 }}
 
@@ -923,9 +1057,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDinforObjects1Objects, true, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txt1"), gdjs.simularViajemCode.GDtxt1Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxt1Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxt1Objects1[i].hide();
+gdjs.copyArray(runtimeScene.getObjects("dica1"), gdjs.simularViajemCode.GDdica1Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdica1Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdica1Objects1[i].hide();
 }
 }}
 
@@ -941,9 +1075,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDinforObjects1Objects, false, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txt1"), gdjs.simularViajemCode.GDtxt1Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxt1Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxt1Objects1[i].hide(false);
+gdjs.copyArray(runtimeScene.getObjects("dica1"), gdjs.simularViajemCode.GDdica1Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdica1Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdica1Objects1[i].hide(false);
 }
 }}
 
@@ -959,9 +1093,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDinfor2Objects1Objects, true, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txt2"), gdjs.simularViajemCode.GDtxt2Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxt2Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxt2Objects1[i].hide();
+gdjs.copyArray(runtimeScene.getObjects("dica2"), gdjs.simularViajemCode.GDdica2Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdica2Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdica2Objects1[i].hide();
 }
 }}
 
@@ -977,9 +1111,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDinfor2Objects1Objects, false, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txt2"), gdjs.simularViajemCode.GDtxt2Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxt2Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxt2Objects1[i].hide(false);
+gdjs.copyArray(runtimeScene.getObjects("dica2"), gdjs.simularViajemCode.GDdica2Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdica2Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdica2Objects1[i].hide(false);
 }
 }}
 
@@ -995,9 +1129,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDinfor3Objects1Objects, true, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txt3"), gdjs.simularViajemCode.GDtxt3Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxt3Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxt3Objects1[i].hide();
+gdjs.copyArray(runtimeScene.getObjects("dica3"), gdjs.simularViajemCode.GDdica3Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdica3Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdica3Objects1[i].hide();
 }
 }}
 
@@ -1013,9 +1147,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDinfor3Objects1Objects, false, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txt3"), gdjs.simularViajemCode.GDtxt3Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxt3Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxt3Objects1[i].hide(false);
+gdjs.copyArray(runtimeScene.getObjects("dica3"), gdjs.simularViajemCode.GDdica3Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdica3Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdica3Objects1[i].hide(false);
 }
 }}
 
@@ -1031,9 +1165,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDinfor4Objects1Objects, true, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txt4"), gdjs.simularViajemCode.GDtxt4Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxt4Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxt4Objects1[i].hide();
+gdjs.copyArray(runtimeScene.getObjects("dica4"), gdjs.simularViajemCode.GDdica4Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdica4Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdica4Objects1[i].hide();
 }
 }}
 
@@ -1049,9 +1183,9 @@ gdjs.simularViajemCode.condition0IsTrue_0.val = false;
 {
 gdjs.simularViajemCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDJogadorObjects1Objects, gdjs.simularViajemCode.mapOfGDgdjs_46simularViajemCode_46GDinfor4Objects1Objects, false, runtimeScene, false);
 }if (gdjs.simularViajemCode.condition0IsTrue_0.val) {
-gdjs.copyArray(runtimeScene.getObjects("txt4"), gdjs.simularViajemCode.GDtxt4Objects1);
-{for(var i = 0, len = gdjs.simularViajemCode.GDtxt4Objects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDtxt4Objects1[i].hide(false);
+gdjs.copyArray(runtimeScene.getObjects("dica4"), gdjs.simularViajemCode.GDdica4Objects1);
+{for(var i = 0, len = gdjs.simularViajemCode.GDdica4Objects1.length ;i < len;++i) {
+    gdjs.simularViajemCode.GDdica4Objects1[i].hide(false);
 }
 }}
 
@@ -1302,10 +1436,10 @@ if (gdjs.simularViajemCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ventoSolar"), gdjs.simularViajemCode.GDventoSolarObjects1);
 {for(var i = 0, len = gdjs.simularViajemCode.GDnaveObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDnaveObjects1[i].addPolarForce(270, 400, 0);
+    gdjs.simularViajemCode.GDnaveObjects1[i].addPolarForce(270, 200, 0);
 }
 }{for(var i = 0, len = gdjs.simularViajemCode.GDventoSolarObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDventoSolarObjects1[i].addPolarForce(270, 400, 0);
+    gdjs.simularViajemCode.GDventoSolarObjects1[i].addPolarForce(270, 200, 0);
 }
 }}
 
@@ -1330,10 +1464,10 @@ if (gdjs.simularViajemCode.condition1IsTrue_0.val) {
 gdjs.copyArray(runtimeScene.getObjects("nave"), gdjs.simularViajemCode.GDnaveObjects1);
 gdjs.copyArray(runtimeScene.getObjects("ventoSolar"), gdjs.simularViajemCode.GDventoSolarObjects1);
 {for(var i = 0, len = gdjs.simularViajemCode.GDnaveObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDnaveObjects1[i].addPolarForce(90, 400, 0);
+    gdjs.simularViajemCode.GDnaveObjects1[i].addPolarForce(90, 200, 0);
 }
 }{for(var i = 0, len = gdjs.simularViajemCode.GDventoSolarObjects1.length ;i < len;++i) {
-    gdjs.simularViajemCode.GDventoSolarObjects1[i].addPolarForce(90, 400, 0);
+    gdjs.simularViajemCode.GDventoSolarObjects1[i].addPolarForce(90, 200, 0);
 }
 }}
 
@@ -1445,54 +1579,12 @@ gdjs.simularViajemCode.GDinfor2Objects3.length = 0;
 gdjs.simularViajemCode.GDinforObjects1.length = 0;
 gdjs.simularViajemCode.GDinforObjects2.length = 0;
 gdjs.simularViajemCode.GDinforObjects3.length = 0;
-gdjs.simularViajemCode.GDtxt17Objects1.length = 0;
-gdjs.simularViajemCode.GDtxt17Objects2.length = 0;
-gdjs.simularViajemCode.GDtxt17Objects3.length = 0;
-gdjs.simularViajemCode.GDtxt16Objects1.length = 0;
-gdjs.simularViajemCode.GDtxt16Objects2.length = 0;
-gdjs.simularViajemCode.GDtxt16Objects3.length = 0;
-gdjs.simularViajemCode.GDtxt15Objects1.length = 0;
-gdjs.simularViajemCode.GDtxt15Objects2.length = 0;
-gdjs.simularViajemCode.GDtxt15Objects3.length = 0;
-gdjs.simularViajemCode.GDtxtN1Objects1.length = 0;
-gdjs.simularViajemCode.GDtxtN1Objects2.length = 0;
-gdjs.simularViajemCode.GDtxtN1Objects3.length = 0;
-gdjs.simularViajemCode.GDtxt4Objects1.length = 0;
-gdjs.simularViajemCode.GDtxt4Objects2.length = 0;
-gdjs.simularViajemCode.GDtxt4Objects3.length = 0;
-gdjs.simularViajemCode.GDtxt3Objects1.length = 0;
-gdjs.simularViajemCode.GDtxt3Objects2.length = 0;
-gdjs.simularViajemCode.GDtxt3Objects3.length = 0;
-gdjs.simularViajemCode.GDtxt2Objects1.length = 0;
-gdjs.simularViajemCode.GDtxt2Objects2.length = 0;
-gdjs.simularViajemCode.GDtxt2Objects3.length = 0;
-gdjs.simularViajemCode.GDtxt1Objects1.length = 0;
-gdjs.simularViajemCode.GDtxt1Objects2.length = 0;
-gdjs.simularViajemCode.GDtxt1Objects3.length = 0;
-gdjs.simularViajemCode.GDforaTerraObjects1.length = 0;
-gdjs.simularViajemCode.GDforaTerraObjects2.length = 0;
-gdjs.simularViajemCode.GDforaTerraObjects3.length = 0;
-gdjs.simularViajemCode.GDinforAtmObjects1.length = 0;
-gdjs.simularViajemCode.GDinforAtmObjects2.length = 0;
-gdjs.simularViajemCode.GDinforAtmObjects3.length = 0;
-gdjs.simularViajemCode.GDinforAtm2Objects1.length = 0;
-gdjs.simularViajemCode.GDinforAtm2Objects2.length = 0;
-gdjs.simularViajemCode.GDinforAtm2Objects3.length = 0;
-gdjs.simularViajemCode.GDNossaAtmosferaObjects1.length = 0;
-gdjs.simularViajemCode.GDNossaAtmosferaObjects2.length = 0;
-gdjs.simularViajemCode.GDNossaAtmosferaObjects3.length = 0;
-gdjs.simularViajemCode.GDinterplanetarioObjects1.length = 0;
-gdjs.simularViajemCode.GDinterplanetarioObjects2.length = 0;
-gdjs.simularViajemCode.GDinterplanetarioObjects3.length = 0;
-gdjs.simularViajemCode.GDvenusObjects1.length = 0;
-gdjs.simularViajemCode.GDvenusObjects2.length = 0;
-gdjs.simularViajemCode.GDvenusObjects3.length = 0;
-gdjs.simularViajemCode.GDvenusInforObjects1.length = 0;
-gdjs.simularViajemCode.GDvenusInforObjects2.length = 0;
-gdjs.simularViajemCode.GDvenusInforObjects3.length = 0;
-gdjs.simularViajemCode.GDvenusInfor2Objects1.length = 0;
-gdjs.simularViajemCode.GDvenusInfor2Objects2.length = 0;
-gdjs.simularViajemCode.GDvenusInfor2Objects3.length = 0;
+gdjs.simularViajemCode.GDsoltxtObjects1.length = 0;
+gdjs.simularViajemCode.GDsoltxtObjects2.length = 0;
+gdjs.simularViajemCode.GDsoltxtObjects3.length = 0;
+gdjs.simularViajemCode.GDvenusIObjects1.length = 0;
+gdjs.simularViajemCode.GDvenusIObjects2.length = 0;
+gdjs.simularViajemCode.GDvenusIObjects3.length = 0;
 gdjs.simularViajemCode.GDFundoObjects1.length = 0;
 gdjs.simularViajemCode.GDFundoObjects2.length = 0;
 gdjs.simularViajemCode.GDFundoObjects3.length = 0;
@@ -1517,6 +1609,12 @@ gdjs.simularViajemCode.GDEstratosferaObjects3.length = 0;
 gdjs.simularViajemCode.GDTroposferaObjects1.length = 0;
 gdjs.simularViajemCode.GDTroposferaObjects2.length = 0;
 gdjs.simularViajemCode.GDTroposferaObjects3.length = 0;
+gdjs.simularViajemCode.GDmuda10Objects1.length = 0;
+gdjs.simularViajemCode.GDmuda10Objects2.length = 0;
+gdjs.simularViajemCode.GDmuda10Objects3.length = 0;
+gdjs.simularViajemCode.GDmuda11Objects1.length = 0;
+gdjs.simularViajemCode.GDmuda11Objects2.length = 0;
+gdjs.simularViajemCode.GDmuda11Objects3.length = 0;
 gdjs.simularViajemCode.GDnuvemObjects1.length = 0;
 gdjs.simularViajemCode.GDnuvemObjects2.length = 0;
 gdjs.simularViajemCode.GDnuvemObjects3.length = 0;
@@ -1532,6 +1630,36 @@ gdjs.simularViajemCode.GDFadeObjects3.length = 0;
 gdjs.simularViajemCode.GDFundoEspacoObjects1.length = 0;
 gdjs.simularViajemCode.GDFundoEspacoObjects2.length = 0;
 gdjs.simularViajemCode.GDFundoEspacoObjects3.length = 0;
+gdjs.simularViajemCode.GDdicas1Objects1.length = 0;
+gdjs.simularViajemCode.GDdicas1Objects2.length = 0;
+gdjs.simularViajemCode.GDdicas1Objects3.length = 0;
+gdjs.simularViajemCode.GDdicas2Objects1.length = 0;
+gdjs.simularViajemCode.GDdicas2Objects2.length = 0;
+gdjs.simularViajemCode.GDdicas2Objects3.length = 0;
+gdjs.simularViajemCode.GDdicas3Objects1.length = 0;
+gdjs.simularViajemCode.GDdicas3Objects2.length = 0;
+gdjs.simularViajemCode.GDdicas3Objects3.length = 0;
+gdjs.simularViajemCode.GDdicas4Objects1.length = 0;
+gdjs.simularViajemCode.GDdicas4Objects2.length = 0;
+gdjs.simularViajemCode.GDdicas4Objects3.length = 0;
+gdjs.simularViajemCode.GDdicas5Objects1.length = 0;
+gdjs.simularViajemCode.GDdicas5Objects2.length = 0;
+gdjs.simularViajemCode.GDdicas5Objects3.length = 0;
+gdjs.simularViajemCode.GDdicas6Objects1.length = 0;
+gdjs.simularViajemCode.GDdicas6Objects2.length = 0;
+gdjs.simularViajemCode.GDdicas6Objects3.length = 0;
+gdjs.simularViajemCode.GDdica1Objects1.length = 0;
+gdjs.simularViajemCode.GDdica1Objects2.length = 0;
+gdjs.simularViajemCode.GDdica1Objects3.length = 0;
+gdjs.simularViajemCode.GDdica2Objects1.length = 0;
+gdjs.simularViajemCode.GDdica2Objects2.length = 0;
+gdjs.simularViajemCode.GDdica2Objects3.length = 0;
+gdjs.simularViajemCode.GDdica3Objects1.length = 0;
+gdjs.simularViajemCode.GDdica3Objects2.length = 0;
+gdjs.simularViajemCode.GDdica3Objects3.length = 0;
+gdjs.simularViajemCode.GDdica4Objects1.length = 0;
+gdjs.simularViajemCode.GDdica4Objects2.length = 0;
+gdjs.simularViajemCode.GDdica4Objects3.length = 0;
 
 gdjs.simularViajemCode.eventsList4(runtimeScene);
 return;

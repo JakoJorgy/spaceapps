@@ -31,6 +31,10 @@ gdjs.solarManuCode.GDNewSprite2Objects1= [];
 gdjs.solarManuCode.GDNewSprite2Objects2= [];
 gdjs.solarManuCode.GDalertaObjects1= [];
 gdjs.solarManuCode.GDalertaObjects2= [];
+gdjs.solarManuCode.GDinfor1Objects1= [];
+gdjs.solarManuCode.GDinfor1Objects2= [];
+gdjs.solarManuCode.GDinfor2Objects1= [];
+gdjs.solarManuCode.GDinfor2Objects2= [];
 gdjs.solarManuCode.GDBaixoObjects1= [];
 gdjs.solarManuCode.GDBaixoObjects2= [];
 gdjs.solarManuCode.GDdireitaObjects1= [];
@@ -43,6 +47,10 @@ gdjs.solarManuCode.GDfundoObjects1= [];
 gdjs.solarManuCode.GDfundoObjects2= [];
 gdjs.solarManuCode.GDrotaObjects1= [];
 gdjs.solarManuCode.GDrotaObjects2= [];
+gdjs.solarManuCode.GDdicas7Objects1= [];
+gdjs.solarManuCode.GDdicas7Objects2= [];
+gdjs.solarManuCode.GDdicas8Objects1= [];
+gdjs.solarManuCode.GDdicas8Objects2= [];
 
 gdjs.solarManuCode.conditionTrue_0 = {val:false};
 gdjs.solarManuCode.condition0IsTrue_0 = {val:false};
@@ -66,6 +74,14 @@ gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects = Hashta
 gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDMercurioObjects1Objects = Hashtable.newFrom({"Mercurio": gdjs.solarManuCode.GDMercurioObjects1});
 gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects = Hashtable.newFrom({"sonda": gdjs.solarManuCode.GDsondaObjects1});
 gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDMercurioObjects1Objects = Hashtable.newFrom({"Mercurio": gdjs.solarManuCode.GDMercurioObjects1});
+gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects = Hashtable.newFrom({"sonda": gdjs.solarManuCode.GDsondaObjects1});
+gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDinfor1Objects1Objects = Hashtable.newFrom({"infor1": gdjs.solarManuCode.GDinfor1Objects1});
+gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects = Hashtable.newFrom({"sonda": gdjs.solarManuCode.GDsondaObjects1});
+gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDinfor1Objects1Objects = Hashtable.newFrom({"infor1": gdjs.solarManuCode.GDinfor1Objects1});
+gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects = Hashtable.newFrom({"sonda": gdjs.solarManuCode.GDsondaObjects1});
+gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDinfor2Objects1Objects = Hashtable.newFrom({"infor2": gdjs.solarManuCode.GDinfor2Objects1});
+gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects = Hashtable.newFrom({"sonda": gdjs.solarManuCode.GDsondaObjects1});
+gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDinfor2Objects1Objects = Hashtable.newFrom({"infor2": gdjs.solarManuCode.GDinfor2Objects1});
 gdjs.solarManuCode.eventsList0 = function(runtimeScene) {
 
 };gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDCimaObjects1Objects = Hashtable.newFrom({"Cima": gdjs.solarManuCode.GDCimaObjects1});
@@ -311,6 +327,78 @@ gdjs.copyArray(runtimeScene.getObjects("mercurioo"), gdjs.solarManuCode.GDmercur
 
 {
 
+gdjs.copyArray(runtimeScene.getObjects("infor1"), gdjs.solarManuCode.GDinfor1Objects1);
+gdjs.copyArray(runtimeScene.getObjects("sonda"), gdjs.solarManuCode.GDsondaObjects1);
+
+gdjs.solarManuCode.condition0IsTrue_0.val = false;
+{
+gdjs.solarManuCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects, gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDinfor1Objects1Objects, false, runtimeScene, false);
+}if (gdjs.solarManuCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas8"), gdjs.solarManuCode.GDdicas8Objects1);
+{for(var i = 0, len = gdjs.solarManuCode.GDdicas8Objects1.length ;i < len;++i) {
+    gdjs.solarManuCode.GDdicas8Objects1[i].hide(false);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("infor1"), gdjs.solarManuCode.GDinfor1Objects1);
+gdjs.copyArray(runtimeScene.getObjects("sonda"), gdjs.solarManuCode.GDsondaObjects1);
+
+gdjs.solarManuCode.condition0IsTrue_0.val = false;
+{
+gdjs.solarManuCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects, gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDinfor1Objects1Objects, true, runtimeScene, false);
+}if (gdjs.solarManuCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas8"), gdjs.solarManuCode.GDdicas8Objects1);
+{for(var i = 0, len = gdjs.solarManuCode.GDdicas8Objects1.length ;i < len;++i) {
+    gdjs.solarManuCode.GDdicas8Objects1[i].hide();
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("infor2"), gdjs.solarManuCode.GDinfor2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("sonda"), gdjs.solarManuCode.GDsondaObjects1);
+
+gdjs.solarManuCode.condition0IsTrue_0.val = false;
+{
+gdjs.solarManuCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects, gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDinfor2Objects1Objects, false, runtimeScene, false);
+}if (gdjs.solarManuCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas7"), gdjs.solarManuCode.GDdicas7Objects1);
+{for(var i = 0, len = gdjs.solarManuCode.GDdicas7Objects1.length ;i < len;++i) {
+    gdjs.solarManuCode.GDdicas7Objects1[i].hide(false);
+}
+}}
+
+}
+
+
+{
+
+gdjs.copyArray(runtimeScene.getObjects("infor2"), gdjs.solarManuCode.GDinfor2Objects1);
+gdjs.copyArray(runtimeScene.getObjects("sonda"), gdjs.solarManuCode.GDsondaObjects1);
+
+gdjs.solarManuCode.condition0IsTrue_0.val = false;
+{
+gdjs.solarManuCode.condition0IsTrue_0.val = gdjs.evtTools.object.hitBoxesCollisionTest(gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDsondaObjects1Objects, gdjs.solarManuCode.mapOfGDgdjs_46solarManuCode_46GDinfor2Objects1Objects, true, runtimeScene, false);
+}if (gdjs.solarManuCode.condition0IsTrue_0.val) {
+gdjs.copyArray(runtimeScene.getObjects("dicas7"), gdjs.solarManuCode.GDdicas7Objects1);
+{for(var i = 0, len = gdjs.solarManuCode.GDdicas7Objects1.length ;i < len;++i) {
+    gdjs.solarManuCode.GDdicas7Objects1[i].hide();
+}
+}}
+
+}
+
+
+{
+
 gdjs.copyArray(runtimeScene.getObjects("rota"), gdjs.solarManuCode.GDrotaObjects1);
 
 gdjs.solarManuCode.condition0IsTrue_0.val = false;
@@ -541,6 +629,10 @@ gdjs.solarManuCode.GDNewSprite2Objects1.length = 0;
 gdjs.solarManuCode.GDNewSprite2Objects2.length = 0;
 gdjs.solarManuCode.GDalertaObjects1.length = 0;
 gdjs.solarManuCode.GDalertaObjects2.length = 0;
+gdjs.solarManuCode.GDinfor1Objects1.length = 0;
+gdjs.solarManuCode.GDinfor1Objects2.length = 0;
+gdjs.solarManuCode.GDinfor2Objects1.length = 0;
+gdjs.solarManuCode.GDinfor2Objects2.length = 0;
 gdjs.solarManuCode.GDBaixoObjects1.length = 0;
 gdjs.solarManuCode.GDBaixoObjects2.length = 0;
 gdjs.solarManuCode.GDdireitaObjects1.length = 0;
@@ -553,6 +645,10 @@ gdjs.solarManuCode.GDfundoObjects1.length = 0;
 gdjs.solarManuCode.GDfundoObjects2.length = 0;
 gdjs.solarManuCode.GDrotaObjects1.length = 0;
 gdjs.solarManuCode.GDrotaObjects2.length = 0;
+gdjs.solarManuCode.GDdicas7Objects1.length = 0;
+gdjs.solarManuCode.GDdicas7Objects2.length = 0;
+gdjs.solarManuCode.GDdicas8Objects1.length = 0;
+gdjs.solarManuCode.GDdicas8Objects2.length = 0;
 
 gdjs.solarManuCode.eventsList1(runtimeScene);
 return;
